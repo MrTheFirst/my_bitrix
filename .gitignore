@@ -1,0 +1,13 @@
+# IntelliJ project files
+.idea
+
+#trash files
+.DS_Store
+Thumbs.db
+
+#bitrix folders
+/public_html/bitrix/*
+/public_html/upload/*
+
+#dev dependencies libraries
+/node_modules/
